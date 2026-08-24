@@ -34,5 +34,14 @@
     "source_latin": "Teklimakan Qumluqi",
     "translation": "Taklamakan Desert",
     "notes": "Geographical proper noun."
+  },
+  {
+    "id": 5,
+    "date": "2026-08-24",
+    "direction": "uy-to-en",
+    "source_arabic": "Men Sarang!",
+    "source_latin": "Men Sarang!",
+    "translation": "I'm crazy",
+    "notes": "testing."
   }
 ]
