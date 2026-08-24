@@ -1,0 +1,38 @@
+[
+  {
+    "id": 4,
+    "date": "2026-08-24",
+    "direction": "uy-to-en",
+    "source_arabic": "ياخشىمۇسىز؟ ھال-ئەھۋالىڭىز قانداق؟",
+    "source_latin": "Yaxshimusiz? Hal-ehvalingiz qandaq?",
+    "translation": "Hello! How are you doing?",
+    "notes": "Standard friendly greeting used in daily conversations."
+  },
+  {
+    "id": 3,
+    "date": "2026-08-20",
+    "direction": "en-to-uy",
+    "source_arabic": "سەبىر — جەننەتنىڭ ئاچقۇچى.",
+    "source_latin": "Sebir — jennetning achquchi.",
+    "translation": "Patience is the key to paradise.",
+    "notes": "Proverbial expression emphasizing resilience and endurance."
+  },
+  {
+    "id": 2,
+    "date": "2026-08-15",
+    "direction": "uy-to-en",
+    "source_arabic": "ئانا تىلىم — دانالىق بۈشۈكى.",
+    "source_latin": "Ana tilim — danaliq büshüki.",
+    "translation": "My mother tongue is the cradle of wisdom.",
+    "notes": "Literary poetic expression celebrating native language."
+  },
+  {
+    "id": 1,
+    "date": "2026-08-10",
+    "direction": "uy-to-en",
+    "source_arabic": "تەكلىماكان قۇملۇقى",
+    "source_latin": "Teklimakan Qumluqi",
+    "translation": "Taklamakan Desert",
+    "notes": "Geographical proper noun."
+  }
+]
