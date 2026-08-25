@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "date": "2026-08-10",
+    "date": "2026-08-15",
     "direction": "uy-to-en",
-    "source_arabic": "تەكلىماكان قۇملۇقى",
-    "source_latin": "Teklimakan Qumluqi",
-    "translation": "Taklamakan Desert",
-    "notes": "Geographical proper noun."
+    "source_arabic": "ئانا تىلىم — دانالىق بۈشۈكى.",
+    "source_latin": "Ana tilim — danaliq büshüki.",
+    "translation": "My mother tongue is the cradle of wisdom.",
+    "notes": "Literary poetic expression celebrating native language."
   }
 ]
