@@ -43,5 +43,14 @@
     "source_latin": "Men Sarang!",
     "translation": "I'm crazy",
     "notes": "testing."
+  },
+  {
+    "id": 6,
+    "date": "2026-08-24",
+    "direction": "uy-to-en",
+    "source_arabic": ".مەن تارىم بويىغا كەتتىم",
+    "source_latin": "Men tarim boyigha kettim.",
+    "translation": "I left for Tarim.",
+    "notes": "Tarim is symbolized as the origin and root of Uyghur people. It's a region and a river located in southern Uyghur homeland."
   }
 ]
